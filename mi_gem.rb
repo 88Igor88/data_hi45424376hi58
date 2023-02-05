@@ -1,1 +1,2 @@
-def fool:
+def fit:
+  gem "puma"
